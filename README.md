@@ -2,7 +2,7 @@
 Firmware for the Nintendo Switch
 
 # About
-Firmware was dumped from retail Nintendo Switch
+Firmware dumped from retail Nintendo Switch
 
 # Official Patch notes
 For more information, please visit support site   
